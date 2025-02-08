@@ -27,31 +27,12 @@ Follow the prompts to enter:
  ---
  Sample Input/Output
 Enter the number of courses: 3
-
-Enter details for Course 1:
-Course Name: A
-Credits: 3
-Grade Point (0.0 to 4.0): 3.5
-
-Enter details for Course 2:
-Course Name: B
-Credits: 3
-Grade Point (0.0 to 4.0): 3.0
-
-Enter details for Course 3:
-Course Name: C
-Credits: 3
-Grade Point (0.0 to 4.0): 3.2
-
-Course Details and Grades:
--------------------------------------
-Course Name    Credits   Grade Point
--------------------------------------
-A              3         3.5
-B              3         3
-C              3         3.2
-
-Total Courses: 3
-Cumulative Grade Point Average (CGPA): 3.23
+Enter grade for course 1: 3.5
+Enter credit hours for course 1: 3
+Enter grade for course 2: 4.0
+Enter credit hours for course 2: 4
+Enter grade for course 3: 3.0
+Enter credit hours for course 3: 2
+Your CGPA is: 3.56
 
 ---
