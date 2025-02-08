@@ -1,6 +1,3 @@
-## **CGPA-Calculator**
-This repository contains a simple C++ program that calculates the Cumulative Grade Point Average (CGPA) based on the user-provided grades and credit hours for multiple courses. The project demonstrates essential programming concepts such as functions, loops, and array handling in C++.
-
 ## **Project Description**
 This project is a simple yet effective **CGPA Calculator** written in **C++**. It allows users to input the number of courses, the grades earned in each, and their respective credit hours. The program then computes the **Cumulative Grade Point Average (CGPA)** and displays the result.
 
